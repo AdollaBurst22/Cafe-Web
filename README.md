@@ -13,9 +13,13 @@ A modern, responsive coffee shop website landing page UI built with HTML, CSS. F
 
 ## 📱 Screenshots
 
-| Homepage                     | Coffee Menu                        | Testimonials                         | NewsLetter Signup                       |
-| ---------------------------- | ---------------------------------- | ------------------------------------ | --------------------------------------- |
-| ![Homepage](images/home.png) | ![Coffee Menu](images/special.png) | ![Testimonials](images/feedback.png) | ![NewsLetter Signup](images/footer.png) |
+| Homepage                     | Coffee Menu                        |
+| ---------------------------- | ---------------------------------- |
+| ![Homepage](images/home.png) | ![Coffee Menu](images/special.png) |
+
+| Testimonials                         | NewsLetter Signup                       |
+| ------------------------------------ | --------------------------------------- |
+| ![Testimonials](images/feedback.png) | ![NewsLetter Signup](images/footer.png) |
 
 ## Design Features
 
