@@ -13,9 +13,9 @@ A modern, responsive coffee shop website landing page UI built with HTML, CSS. F
 
 ## 📱 Screenshots
 
-| Homepage                                                  | Coffee Menu                      | Dessert Menu                   |
-| --------------------------------------------------------- | -------------------------------- | ------------------------------ |
-| ![Homepage](images/taylor-franz-GJogrGZxKJE-unsplash.jpg) | ![Coffee Menu](images/lungo.jpg) | ![Dessert Menu](images/d1.jpg) |
+| Homepage                     | Coffee Menu                        | Testimonials                         | NewsLetter Signup                       |
+| ---------------------------- | ---------------------------------- | ------------------------------------ | --------------------------------------- |
+| ![Homepage](images/home.png) | ![Coffee Menu](images/special.png) | ![Testimonials](images/feedback.png) | ![NewsLetter Signup](images/footer.png) |
 
 ## Design Features
 
